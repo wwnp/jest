@@ -1,10 +1,10 @@
 {
-  "name": "jestApp",
+  "name": "jest_app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npm jest"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
